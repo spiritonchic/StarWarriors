@@ -60,7 +60,7 @@ var PlayerBullet = new Image();
 PlayerBullet.src = "./resources/img/PlayerBullet.png";
 
 var Background0 = new Image();
-Background0.src = "resources/img/Background0.png"
+Background0.src = "./resources/img/Background0.png"
 
 var obj;
 
